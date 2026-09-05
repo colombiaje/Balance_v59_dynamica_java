@@ -493,6 +493,6 @@ public class B13_NavigationManager {
         }
 
     }
-    //comentario prueba git XXX1
+    //comentario prueba git XXX12 Remoto
     // Version REMOTA del comentario de prueba
 }
