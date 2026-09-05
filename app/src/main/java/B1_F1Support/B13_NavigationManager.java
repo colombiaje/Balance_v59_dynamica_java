@@ -494,5 +494,5 @@ public class B13_NavigationManager {
 
     }
     //comentario prueba git
-    // Version LOCAL del comentario de prueba.
+    // Cambio simulado desde 'otra PC' via GitHub Web
 }
