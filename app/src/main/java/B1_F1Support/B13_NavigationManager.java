@@ -494,5 +494,5 @@ public class B13_NavigationManager {
 
     }
     //comentario prueba git
-    // Cambio simulado desde 'otra PC' via GitHub Web
+    // Version REMOTA del comentario de prueba
 }
