@@ -493,5 +493,5 @@ public class B13_NavigationManager {
         }
 
     }
-    //101 local
+    // Version REMOTA del comentario de prueba
 }
