@@ -493,6 +493,6 @@ public class B13_NavigationManager {
         }
 
     }
-    //comentario prueba git
+    //comentario prueba git XXX2
     // Cambio simulado desde 'otra PC' via GitHub Web
 }
