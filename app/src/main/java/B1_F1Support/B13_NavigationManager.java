@@ -493,5 +493,5 @@ public class B13_NavigationManager {
         }
 
     }
-    //103 remoto
+    //104 local
 }
